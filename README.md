@@ -1,41 +1,70 @@
-🫵🏼 𝙃𝙚𝙮 𝙂𝙪𝙮𝙨 🙋🏼‍♂️
+# 🫵🏼 𝙃𝙚𝙮 𝙂𝙪𝙮𝙨 🙋🏼‍♂️  
+👉🏼 𝘿𝙤 𝙮𝙤𝙪 𝙝𝙖𝙫𝙚 𝙖𝙣𝙮 𝙕𝙞𝙥 𝙇𝙤𝙘𝙠 𝙁𝙞𝙡𝙚𝙨 🗃️  
+👉🏼 𝙏𝙧𝙮 𝙤𝙪𝙧 𝙕𝙞𝙥 𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝘾𝙧𝙖𝙘𝙠𝙞𝙣𝙜 𝙏𝙤𝙤𝙡 🔥  
+👉🏼 𝘾𝙧𝙖𝙘𝙠 𝙖𝙣𝙮 𝙕𝙄𝙋 𝙁𝙞𝙡𝙚𝙨 𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙪𝙨𝙞𝙣𝙜 𝙏𝙚𝙧𝙢𝙪𝙭  
 
-👉🏼𝘿𝙤 𝙮𝙤𝙪 𝙝𝙖𝙫𝙚 𝙖𝙣𝙮 𝙕𝙞𝙥 𝙇𝙤𝙘𝙠 𝙁𝙞𝙡𝙚𝙨 🗃️
+---
 
-👉🏼𝙏𝙧𝙮 𝙤𝙪𝙧 𝙕𝙞𝙥 𝙥𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝘾𝙧𝙖𝙘𝙠𝙞𝙣𝙜 𝙏𝙤𝙤𝙡 🔥 
+## ✅ Installation Commands (With Copy Buttons)
 
-👉🏼𝘾𝙧𝙖𝙘𝙠 𝙖𝙣𝙮 𝙕𝙄𝙋 𝙛𝙞𝙡𝙚𝙨 𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙪𝙨𝙞𝙣𝙜 𝙏𝙚𝙧𝙢𝙪𝙭
+<pre>
+<button class="copy" data-target="c1"></button>
+<code id="c1">apt update && apt upgrade -y</code>
+</pre>
 
-✅ 𝗮𝗽𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 
+<pre>
+<button class="copy" data-target="c2"></button>
+<code id="c2">pkg install python -y</code>
+</pre>
 
-✅ 𝗮𝗽𝘁 𝘂𝗽𝗴𝗿𝗮𝗱𝗲
+<pre>
+<button class="copy" data-target="c3"></button>
+<code id="c3">pkg install zip -y</code>
+</pre>
 
-✅ 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁
+<pre>
+<button class="copy" data-target="c4"></button>
+<code id="c4">pkg install unzip -y</code>
+</pre>
 
-✅𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝘆𝘁𝗵𝗼𝗻
+<pre>
+<button class="copy" data-target="c5"></button>
+<code id="c5">pkg install git -y</code>
+</pre>
 
-✅𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘇𝗶𝗽
+<pre>
+<button class="copy" data-target="c6"></button>
+<code id="c6">pkg install wget -y</code>
+</pre>
 
-✅𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘂𝗻𝘇𝗶𝗽
+<pre>
+<button class="copy" data-target="c7"></button>
+<code id="c7">pkg install curl -y</code>
+</pre>
 
-✅𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘄𝗴𝗲𝘁
+<pre>
+<button class="copy" data-target="c8"></button>
+<code id="c8">pkg install nano -y</code>
+</pre>
 
-✅𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗰𝘂𝗿𝗹
+<pre>
+<button class="copy" data-target="c9"></button>
+<code id="c9">git clone https://github.com/linuxexpertimranafridi99-dotcom/Zip-Crack.git</code>
+</pre>
 
-✅𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗻𝗮𝗻𝗼
+<pre>
+<button class="copy" data-target="c10"></button>
+<code id="c10">cd zip_cracker</code>
+</pre>
 
-✅𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/Hackerscolonyofficial/HCO_ZIPPER.py.git
+<pre>
+<button class="copy" data-target="c11"></button>
+<code id="c11">python3 z.py</code>
+</pre>
 
-✅𝗰𝗱 HCO_ZIPPER.py
+<pre>
+<button class="copy" data-target="c12"></button>
+<code id="c12">set up video [url]</code>
+</pre>
 
-✅𝗽𝘆𝘁𝗵𝗼𝗻𝟯 𝗛𝗖𝗢_𝗭𝗜𝗣𝗣𝗘𝗥.𝗽𝘆
-
-Now to use this tool you will be automatically redirected to our
-YouTube channel do subscribe and click on Bell icon and come back
-to Termux and you Will be able to use this tool for free
-
-Hope & You Love the tool and for any queries or error join our Hacking
-our Channel 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
-
-𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼
-https://chat.whatsapp.com/HB03qdGSK5K17wmQ5FXGiP
+---
