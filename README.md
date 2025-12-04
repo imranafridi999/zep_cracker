@@ -13,13 +13,38 @@
 </pre>
 
 <pre>
+<button class="copy" data-target="c2"></button>
+<code id="c2">pkg install python -y</code>
+</pre>
+
+<pre>
 <button class="copy" data-target="c5"></button>
 <code id="c5">pkg install git -y</code>
 </pre>
 
 <pre>
-<button class="copy" data-target="c2"></button>
-<code id="c2">pkg install python -y</code>
+<button class="copy" data-target="c3"></button>
+<code id="c3">pkg install zip -y</code>
+</pre>
+
+<pre>
+<button class="copy" data-target="c4"></button>
+<code id="c4">pkg install unzip -y</code>
+</pre>
+
+<pre>
+<button class="copy" data-target="c6"></button>
+<code id="c6">pkg install wget -y</code>
+</pre>
+
+<pre>
+<button class="copy" data-target="c7"></button>
+<code id="c7">pkg install curl -y</code>
+</pre>
+
+<pre>
+<button class="copy" data-target="c8"></button>
+<code id="c8">pkg install nano -y</code>
 </pre>
 
 <pre>
